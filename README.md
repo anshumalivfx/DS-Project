@@ -25,13 +25,13 @@ THIS IS Data Structures ENDSEM PROJECT BY
 #### Ubuntu or Other Debian based OS:-
 
 ```console
-~$ sudo apt install gcc libsfml-dev
+sudo apt install gcc libsfml-dev
 ```
 
 #### Arch Linux:-
 
 ```console
-~$ sudo pacman -Sy gcc libsfml-dev
+sudo pacman -Sy gcc libsfml-dev
 ```
 
 ### FOR Mac OS X/Darwin:
@@ -39,7 +39,7 @@ THIS IS Data Structures ENDSEM PROJECT BY
 #### Using Homebrew
 
 ```console
-~$ brew install gcc sfml
+brew install gcc sfml
 ```
 
 ### FOR WINDOWS:-
@@ -55,9 +55,9 @@ Download SFML:- <a href="https://www.sfml-dev.org/files/SFML-2.5.1-windows-gcc-7
 ### RUN THE FOLLOWING COMMAND in "DSPROJECT" FOLDER:
 
 ```console
-~$ mkdir build
+mkdir build
 ```
 
 ```console
-~$ make
+make
 ```
