@@ -13,16 +13,22 @@ THIS IS Data Structures ENDSEM PROJECT BY
 ## 5. KRITARTH BANSAL (20103256)
 
 # -------------------------------------
+
 DOWNLOAD AND PLAY <br/>
+
 ##
+
 ## [Download For Windows](https://github.com/anshumalivfx/DS-Project/releases/download/chess-game/Chess-Game-v1-Windows.zip)
-## [Download For Mac OS X/Darwin]([Chess-Game-v1-Darwin-arm64.zip](https://github.com/anshumalivfx/DS-Project/releases/download/chess-game/Chess-Game-v1-Darwin-arm64.zip))
+
+## [Download For Mac OS X/Darwin](<[Chess-Game-v1-Darwin-arm64.zip](https://github.com/anshumalivfx/DS-Project/releases/download/chess-game/Chess-Game-v1-Darwin-arm64.zip)>)
+
 # -------------------------------------
-# Screenshot 
+
+# Screenshot
+
 <img src="screenshot.jpeg"/>
 
 # -------------------------------------
-
 
 # HOW TO COMPILE YOURSELF:
 
