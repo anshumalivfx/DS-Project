@@ -13,8 +13,8 @@ copy:
 endif
 # For Linux, use the following:
 ifeq ($(UNAME), Linux)
-CFLAGS=-I/opt/homebrew/Cellar/sfml/2.5.1_1/include/
-LDFLAGS=-L/opt/homebrew/Cellar/sfml/2.5.1_1/lib/
+CFLAGS=-I/usr/share/SFML/include/
+LDFLAGS=-L/usr/share/SFML/lib/
 LIBS=-lsfml-graphics -lsfml-window -lsfml-system
 copy:
 	mkdir -p build
