@@ -12,7 +12,11 @@ THIS IS Data Structures ENDSEM PROJECT BY
 
 ## 5. KRITARTH BANSAL (20103256)
 
-# --------------------------------
+# -------------------------------------
+# Screenshot 
+<img src="screenshot.jpeg"/>
+
+# -------------------------------------
 
 # HOW TO COMPILE YOURSELF:
 
