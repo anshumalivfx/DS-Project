@@ -15,19 +15,8 @@ THIS IS Data Structures ENDSEM PROJECT BY
 # -------------------------------------
 DOWNLOAD AND PLAY <br/>
 ##
-[![Download](https://travis-ci.org/fhinkel/create-download-link.svg?branch=master)](https://github.com/anshumalivfx/DS-Project/releases/download/chess-game/Chess-Game-v1-Windows.zip)
-
-<script>
-    var createDownloadLink = require('create-download-link');
-
-var opt = {
-    data: 'Here is the content of the file',
-    title: 'Click to download your file',
-    filename: 'example.txt'
-};
-
-var anchor = createDownloadLink(opt);
-</script>
+## [Download For Windows](https://github.com/anshumalivfx/DS-Project/releases/download/chess-game/Chess-Game-v1-Windows.zip)
+## [Download For Mac OS X/Darwin]([Chess-Game-v1-Darwin-arm64.zip](https://github.com/anshumalivfx/DS-Project/releases/download/chess-game/Chess-Game-v1-Darwin-arm64.zip))
 # -------------------------------------
 # Screenshot 
 <img src="screenshot.jpeg"/>
