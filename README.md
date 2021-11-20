@@ -13,10 +13,27 @@ THIS IS Data Structures ENDSEM PROJECT BY
 ## 5. KRITARTH BANSAL (20103256)
 
 # -------------------------------------
+DOWNLOAD AND PLAY <br/>
+##
+[![Download](https://travis-ci.org/fhinkel/create-download-link.svg?branch=master)](https://github.com/anshumalivfx/DS-Project/releases/download/chess-game/Chess-Game-v1-Windows.zip)
+
+<script>
+    var createDownloadLink = require('create-download-link');
+
+var opt = {
+    data: 'Here is the content of the file',
+    title: 'Click to download your file',
+    filename: 'example.txt'
+};
+
+var anchor = createDownloadLink(opt);
+</script>
+# -------------------------------------
 # Screenshot 
 <img src="screenshot.jpeg"/>
 
 # -------------------------------------
+
 
 # HOW TO COMPILE YOURSELF:
 
@@ -57,10 +74,6 @@ Download SFML:- <a href="https://www.sfml-dev.org/files/SFML-2.5.1-windows-gcc-7
 #### Copy "SFML-2.5.1" Folder to C:\
 
 ### RUN THE FOLLOWING COMMAND in "DSPROJECT" FOLDER:
-
-```console
-mkdir build
-```
 
 ```console
 make

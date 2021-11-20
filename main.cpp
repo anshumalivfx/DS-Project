@@ -124,9 +124,8 @@ int TurnA(int ox, int oy, int nx, int ny)
 			return 1;
 		}
 		else if (board[i][ox] != 0 )
-		{
 			break;
-		}
+		
 	}
 	for (int i = ox + 1; i <= 7; i++) // spre dreapta
 	{
